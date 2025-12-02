@@ -1,0 +1,4 @@
+*.log
+*.bak
+.vscode/
+.DS_Store
